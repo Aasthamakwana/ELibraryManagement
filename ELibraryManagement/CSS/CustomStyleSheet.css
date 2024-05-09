@@ -1,0 +1,26 @@
+﻿.footerlinks {
+    Color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+#footer1 {
+    background: #009E60;
+}
+
+#footer2 {
+    background: #009E60;
+}
+
+#UserLogin, #AdminLogin, #AdminAuthor, #AdminPublisher, #AdminBookIssuing, #UserLogin, #UserProfile {
+    height: -webkit-calc(100vh - 144.7px) !important;
+}
+
+a{
+    text-decoration:none !important;
+}
+
+
